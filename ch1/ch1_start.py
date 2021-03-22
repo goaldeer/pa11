@@ -1,6 +1,6 @@
-a=1
-b=2
-c=a+b
+a = 1
+b = 2
+c = a + b
 c
 
 s1 = "Hello HCit!"
@@ -11,8 +11,10 @@ y = [4, 5, 6]
 z = x + y
 z
 
-def add(a,b):
+
+def add(a, b):
     return a+b
 
-add(1,2)
-add(x,y)
+
+add(1, 2)
+add(x, y)

@@ -1,8 +1,8 @@
 print("Hello World")
 
-a=1
-b=2
-c=a+b
+a = 1
+b = 2
+c = a + b
 print(c)
 
 s1 = "Hello HCit!"
@@ -11,12 +11,14 @@ print(s1)
 x = [1, 2, 3]
 y = [4, 5, 6]
 print(x)
-print(x,y)
+print(x, y)
 
-def add(a,b):
+
+def add(a, b):
     return a+b
 
-add(1,2)
-add(a,b)
-add(x,y)
+
+add(1, 2)
+add(a, b)
+add(x, y)
 
